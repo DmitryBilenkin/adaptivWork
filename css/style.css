@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Opensans";
-    src: url("/fonts/OpenSans-Regular.woff");
+    src: url("/adaptivWork/fonts/OpenSans-Regular.woff");
     font-weight: 400;
     font-style: normal;
   }
@@ -24,7 +24,7 @@ body {
   
     width: 100%;
   
-    background-image: url("/images/banner-bg.jpg");
+    background-image: url("/adaptivWork/images/banner-bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -127,28 +127,28 @@ display: none;
    
   .trands__card:nth-child(1) {
     margin: 0;
-    background-image: url("/Users/a/Desktop/Нетология/adaptivWork/images/trend1.jpg");
+    background-image: url("/adaptivWork/images/trend1.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
   }
 
   .trands__card:nth-child(2) {
-    background-image: url("/Users/a/Desktop/Нетология/adaptivWork/images/trend2.jpg");
+    background-image: url("/adaptivWork/images/trend2.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
   }
   
   .trands__card:nth-child(3) {
-    background-image: url("/Users/a/Desktop/Нетология/adaptivWork/images/trend3.jpg");
+    background-image: url("/adaptivWork/images/trend3.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
   }
 
   .trands__card:nth-child(4) {
-    background-image: url("/Users/a/Desktop/Нетология/adaptivWork/images/trend4.jpg");
+    background-image: url("/adaptivWork/images/trend4.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -745,7 +745,7 @@ display: none;
     -webkit-appearance: none;
     -moz-appearance: none;
     
-    background-image: url("/Users/a/Desktop/Нетология/adaptivWork/svg/form-arrows.svg");
+    background-image: url("/adaptivWork/svg/form-arrows.svg");
     background-repeat: no-repeat;
     background-position: center right 14px;
     background-size: 10px;
@@ -765,7 +765,7 @@ display: none;
   display: inline-block;
   width: 18px;
   height: 18px;
-  background-image: url("/Users/a/Desktop/Нетология/adaptivWork/svg/form-empty-circle.svg");
+  background-image: url("/adaptivWork/svg/form-empty-circle.svg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: 18px;
@@ -774,7 +774,7 @@ display: none;
  }
 
  .form__control:checked + .radio__answer::before {
-  background-image: url("/Users/a/Desktop/Нетология/adaptivWork/svg/form-circle.svg");
+  background-image: url("/adaptivWork/svg/form-circle.svg");
  }
 
  .form__textarea {
@@ -808,7 +808,7 @@ display: none;
 
   .header {
     background-position: center;
-    background-image: url("/Users/a/Desktop/Нетология/adaptivWork/images/banner-bg-tablet.jpg");
+    background-image: url("/adaptivWork/images/banner-bg-tablet.jpg");
   }
 
   .top__header {    
@@ -1057,7 +1057,7 @@ display: none;
   .header { 
     justify-content: center;
     background-position: center;
-    background-image: url("/Users/a/Desktop/Нетология/adaptivWork/images/banner-mobile.jpg"); 
+    background-image: url("/adaptivWork/images/banner-mobile.jpg"); 
   }
 
   .logo {
