@@ -1,13 +1,13 @@
 @font-face {
     font-family: "Opensans";
-    src: url("/Users/a/Desktop/Нетология/adaptivWork/fonts/OpenSans-Regular.woff");
+    src: url("/fonts/OpenSans-Regular.woff");
     font-weight: 400;
     font-style: normal;
   }
   
 @font-face {
     font-family: "Opensans";
-    src: url("/Users/a/Desktop/Нетология/adaptivWork/fonts/OpenSans-Bold.woff");
+    src: url("/fonts/OpenSans-Bold.woff");
     font-weight: 700;
     font-style: normal;
   }
@@ -24,7 +24,7 @@ body {
   
     width: 100%;
   
-    background-image: url("/Users/a/Desktop/Нетология/adaptivWork/images/banner-bg.jpg");
+    background-image: url("/images/banner-bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
