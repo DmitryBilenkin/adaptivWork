@@ -374,6 +374,10 @@ display: none;
     text-decoration: none;
     text-transform: uppercase;
   }
+
+  .new-posts-title-link:hover {
+    color: #b59f5b;
+  }      
   
   .search {
     display: flex;
